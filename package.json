@@ -1,0 +1,16 @@
+{
+  "name": "learning-typescript-with-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A strater project and some stories to help beginners learn Typescript, software design, and reusable software patterns.",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Anderson",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
